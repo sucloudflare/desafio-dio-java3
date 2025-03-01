@@ -17,4 +17,4 @@ O projeto foi dividido em:
 ## 🚀 Como executar
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/iphone-poo.git
+   git clone https://github.com/sucloudflare/desafio-dio-java3
